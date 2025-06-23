@@ -39,7 +39,7 @@ Learn more: [AWS Strands Agents on GitHub](https://github.com/awslabs/strands)
 
 **Option B: Clone with Git**
 ```bash
-git clone <repository-url>
+git clone https://github.com/chiwaichan/AWSSydneySummit2025Demo
 cd AWSSydneySummit2025Demo
 ```
 
