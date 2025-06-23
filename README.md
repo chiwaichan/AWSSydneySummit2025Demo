@@ -20,7 +20,7 @@ This demo shows off **AWS Strands Agents**, an open-source framework that makes 
 - 🎯 **Model Flexibility** - Works with different AI models, including Amazon Nova Pro
 - 📦 **Open Source** - Free to use and contribute to on GitHub
 
-Learn more: [AWS Strands Agents on GitHub](https://github.com/awslabs/strands)
+Learn more: [AWS Strands Agents on GitHub](https://github.com/strands-agents/sdk-python)
 
 ## Prerequisites
 
